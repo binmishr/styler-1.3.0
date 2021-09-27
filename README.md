@@ -10,3 +10,4 @@ Installation
 You can install the package from CRAN.
 
 install.packages("styler")
+library(styler)
